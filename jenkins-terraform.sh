@@ -1,5 +1,5 @@
 #!/bin/bash
-set -ex
+#set -ex
 
 AWS_REGION="eu-west-1"
 
